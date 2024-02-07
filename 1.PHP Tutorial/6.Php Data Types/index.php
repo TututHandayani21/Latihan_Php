@@ -23,7 +23,10 @@
     </div>
 
 <div class="isi">
-        
+    <?php
+    $x = 5;
+    var_dump($x);
+    ?>
 </div>    
 </body>
 </html>

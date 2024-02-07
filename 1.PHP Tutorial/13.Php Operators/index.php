@@ -23,7 +23,12 @@
     </div>
 
 <div class="isi">
-        
+    <?php
+    $x = 10;  
+    $y = 6;
+
+    echo $x + $y;
+    ?>  
 </div>    
 </body>
 </html>
